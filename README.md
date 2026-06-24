@@ -9,9 +9,13 @@ The study focuses on evaluating model performance in identifying various types o
 - Objectives
 
 To analyze network traffic data for detecting malicious activities
+
 To apply machine learning techniques for intrusion classification
+
 To compare the performance of multiple ML models
+
 To identify the most effective algorithm for cyberattack detection
+
 To improve understanding of AI-driven cybersecurity systems
 
 - Technologies Used
